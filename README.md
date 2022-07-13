@@ -1,432 +1,391 @@
-<h1 align="center">Awesome Android Open-Source Projects</h1><br> 
+# Awesome Android Apps 
   
- <p align="center"> 
- :eyeglasses: A curated list of awesome android projects by open-source contributors. 
- </p><br> 
+ A curated list of awesome open source Android applications, tutorials and resources. Inspired by other awesome-\* projects. 
   
- <p align="center"> 
-   <a href="#"><img alt="Android OS" src="https://img.shields.io/badge/OS-Android-3DDC84?style=flat-square&logo=android"></a> 
-   <a href="#"><img alt="Languages-Kotlin" src="https://flat.badgen.net/badge/Language/Kotlin?icon=https://raw.githubusercontent.com/binaryshrey/Awesome-Android-Open-Source-Projects/master/assets/Kotlin_Logo_icon_white.svg&color=f18e33"/></a> 
-   <a href="#"><img alt="Languages-Java" src="https://img.shields.io/badge/Language-Java-1DA1F2?style=flat-square&logo=java"></a> 
-   <a href="#"><img alt="OpenSource" src="https://flat.badgen.net/badge/Open-Source/HacktoberFest?icon=https://raw.githubusercontent.com/binaryshrey/Awesome-Android-Open-Source-Projects/master/assets/DO_Logo_icon_white.svg&color=f18e33"/></a> 
-   <a href="#"><img alt="PRs" src="https://img.shields.io/badge/PRs-Welcome-3DDC84?style=flat-square"></a> 
- </p> 
- <p align="center"> 
-   <a href="https://github.com/binaryShrey"><img alt="Github - binaryShrey" src="https://img.shields.io/badge/GitHub-binaryShrey-181717?style=flat-square&logo=github"></a> 
-   <a href="https://twitter.com/binaryShrey"><img alt="Twitter - binaryShrey" src="https://img.shields.io/badge/Twitter-binaryShrey-1DA1F2?style=flat-square&logo=twitter"></a> 
- </p> 
+ [<img src="logo.png">](https://github.com/LinuxCafeFederation/awesome-android) 
   
- <br> 
- <p align="center"> 
- <img width="720px" src="https://raw.githubusercontent.com/binaryshrey/Awesome-Android-Open-Source-Projects/master/assets/AAOSP.png" alt="aaosp"></img> 
- </p><br> 
-  
- <p> Awesome Android Open-Source Projects aims to be the starting point for those who are new to the world of Open-Source and want to contribute for the same. It also serves experienced contributors to participate and contribute in the mentioned list of projects. 
- </p><br> 
+ ## Support the maintainer of this list 
+ - CashApp: $CipherOps 
+ - Amazon Wishlist: https://amazon.com/hz/wishlist/ls/1GD5YOV16E0G0 
   
  ## Contents 
- :shamrock:  [**Categories**](#shamrock--categories) 
- - :tv: [Android TV](#tv-android-tv) 
- - :watch: [Android Wear](#watch-android-wear) 
- - :office: [Architecture](#office-architecture) 
- - :iphone: [Communication](#iphone-communication) 
- - :book: [eBook Reader](#book-ebook-reader) 
- - :movie_camera: [Entertainment](#movie_camera-entertainment) 
- - :moneybag: [Finance](#moneybag-finance) 
- - :soccer: [Games](#soccer-games) 
- - :weight_lifting: [Health & Fitness](#weight_lifting-health--fitness) 
- - :books: [Libraries](#books-libraries) 
- - :art: [Misc](#art-misc) 
- - :newspaper: [News](#newspaper-news) 
- - :rocket: [Productivity](#rocket-productivity) 
- - :hammer_and_wrench: [Tools](#hammer_and_wrench-tools) 
- - :earth_africa: [Travel](#earth_africa-travel) 
- - :gear: [Utilities](#gear-utilities) 
- - :partly_sunny: [Weather](#partly_sunny-weather) 
   
- :dart:  [**HacktoberFest**](#dart--hacktoberfest) 
+ - [Advertisement blocking](#advertisement-blocking) 
+ - [App stores](#app-stores) 
+ - [Basic Utilities](#basic-utilities) 
+ - [Book readers](#book-readers) 
+ - [Torrenting](#torrenting) 
+ - [Browsers](#browsers) 
+ - [Cameras](#cameras) 
+ - [Communication](#communication) 
+   * [E-mail](#e-mail) 
+   * [Real-Time Communication](#real-time-communication) 
+   * [Social Media](#social-media) 
+   * [Other](#other) 
+ - [Education](#education) 
+ - [Emulation](#emulation) 
+ - [Games](#games) 
+ - [Media Players](#media-players) 
+ - [Music](#music) 
+ - [Office](#office) 
+ - [Password managers](#password-managers) 
+   * [General](#general) 
+   * [2FA/TOTP](#2fa-and-totp) 
+ - [Personalisation](#personalisation) 
+ - [Photos](#photos) 
+ - [Productivity](#productivity) 
+ - [Streaming](#streaming) 
+ - [VPN](#vpn) 
+ - [Other Utilities](#other-utilities) 
+   * [Navigation](#navigation) 
+   * [Git based clients](#git-based-clients) 
+   * [Other](#other) 
+ - [Tools](#tools) 
+ - [Modding](#modding) 
   
- :memo:  [**Contributing**](#memo--contributing) 
- <br><br> 
+ ## Advertisement blocking 
   
- ## :shamrock:  **Categories** 
+ - [AdAway](https://adaway.org/) - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended). 
+ - [Blokada](https://blokada.org/) - Ad blocker for Android using the VPN API. 
+ - [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/) - Ad blocker for Android using a VPN, supports hosts files. 
+ - [DNS66](https://jak-linux.org/projects/dns66/) - DNS66 blocks advertisements on Android by intercepting DNS requests using Android's VPN layer and blocking requests for blacklisted hosts. 
+ - [NetGuard](https://github.com/M66B/NetGuard) - NetGuard provides simple and advanced ways to block access to the internet - no root required. 
+ - [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.  
   
- ### :tv: Android TV 
- - [AndroidTVMovieParadise](https://github.com/halilozel1903/AndroidTVMovieParadise) 
+ ## App stores 
   
-     - Android TV is a version of the Android operating system. It is developed by Google for soundbars, set-top boxes, digital media players, and TVs with native applications.Movie Paradise is an Android TV app. Application is using The Movie Database. 
-      
- - [SmartYouTubeTV](https://github.com/yuliskov/SmartYouTubeTV) 
+ - [F-Droid](https://www.f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. 
+ - [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid) - Fork of the F-Droid client with external repos ready to sync (Root permission is optional). 
+ - [Aurora Store](https://auroraoss.com/) - Unofficial FOSS client to Google Play Store (Root permission is optional). 
+ - [Foxy Droid](https://github.com/kitsunyan/foxy-droid) - Yet another F-Droid client. 
   
-     - SmartYouTubeTV: A YouTube client for set-top boxes and Android-based TVs. 
+ ## Basic Utilities 
   
- - [Tv-samples](https://github.com/android/tv-samples) 
+ - [Binary Eye](https://github.com/markusfisch/BinaryEye) - Barcode and QR code scanner without ads 
+ - [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/) - It is a material designed open source calendar. 
+ - [Koler](https://github.com/Chooloo/koler) - A uniquely stylized phone app, with customizable features - for Android. 
+ - [Simple Calculator](https://f-droid.org/en/packages/com.simplemobiletools.calculator/) - A calculator for your quick calculations. 
+ - [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/) - Be notified of the important moments in your life. 
+ - [Simple Clock](https://f-droid.org/en/packages/com.simplemobiletools.clock/) - A combination of a clock, alarm, stopwatch and timer. 
+ - [Simple Contacts](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/) - A premium app for contact management with no ads, supports groups and favorites. 
+ - [Simple Dialer](https://f-droid.org/en/packages/com.simplemobiletools.dialer/) - A handy phone call manager with phonebook, number blocking and multi-SIM support. 
+ - [Simple Flashlight](https://f-droid.org/en/packages/com.simplemobiletools.flashlight/) - A simple flashlight without ads. 
+ - [Simple Voice Recorder](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/) - An easy way of recording any discussion or sounds without ads or internet access. 
+ - [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app. 
+ - [Video-Transcoder](https://github.com/brarcher/video-transcoder) - Android app for video and audio transcoder, based on FFmpeg  
   
-     - This repository consists of multiple samples showing best practices in app development on Android TV.  
-      
- - [Vineyard](https://github.com/hitherejoe/Vineyard) 
-  
-     - Vineyard is an unofficial Vine client for Android TV. 
-      
-      
-      
- ### :watch: Android Wear 
- - [FORMWatchFace](https://github.com/romannurik/FORMWatchFace) 
-  
-     - This is a watch face for Android Wear based on the typeface used for the FORM design conference.  
-      
- - [Smartalarm](https://github.com/fridgecow/smartalarm) 
-  
-     - Smart Alarm is a privacy-focused sleep tracker with powerful features and works without an internet or phone connection. 
-      
- - [Twelveish](https://github.com/LayoutXML/Twelveish) 
-  
-     - Twelveish is a unique Wear OS (Android Wear) Watch Face that displays the approximate time in words (in multiple languages).  
-      
- - [Wear-notify-for-reddit](https://github.com/emmaguy/wear-notify-for-reddit) 
-  
-     - Get notifications from your favourite subreddits right on your android wearable. 
-      
- - [Wear-os-samples](https://github.com/android/wear-os-samples) 
-  
-     - Multiple samples showing best practices in app and watch face development on Wear OS.  
-      
- - [WearSquare](https://github.com/davidvavra/WearSquare) 
-  
-     - Unofficial Foursquare® Client for Android Wear. 
-      
-      
-      
- ### :office: Architecture 
-  
- - [Github Visualizer](https://github.com/DheerajKotwani/GithubVisualizer) 
-  
-     - Android Application to track any user activity on Github built using the Github Developers Api. The tools used for implementations - Github Developers Api, Kotlin, Coroutines, MVVM, Glide, Retrofit. 
+ ## Torrenting 
+ - [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) - Copylefted libre full-featured torrent client for Android. 
+ - [Frostwire](https://github.com/frostwire/frostwire/tree/master/android) - A file sharing client, media player and simple file manager for your Android devices. 
   
   
- - [Android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) 
+ ## Book readers 
   
-     - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava, FastAndroidNetworking, PlaceHolderView and AndroidDebugDatabase. 
-      
- - [Android-mvvm-architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) 
+ - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI. 
+ - [Coolreader](https://github.com/buggins/coolreader) - cross platform open source e-book reader. 
+ - [Hendroid](https://f-droid.org/en/packages/org.nonononoki.hendroid/) - Doujinshi & Hentai-Manga archiving and viewing app (features 18+ content). 
+ - [Kinoko](https://github.com/gsioteam/kinoko) - A online manga browser. (Features 18+ content depending on which extensions you use.) 
+ - [Librera PRO](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/) - Librera Reader is a highly customizable and feature-rich application 
+   for reading e-books in PDF, EPUB, MOBI, DjVu, FB2, TXT, RTF, AZW, AZW3, HTML, CBZ, CBR, DOC, DOCX, etc. formats. Note that Playstore version can access non-free services like Dropbox, Google Drive and Onedrive while the one mentioned here(F-droid version) can't. 
+ - [Neko](https://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader for Android (features 18+ content). 
+ - [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader. 
+ - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader (features 18+ content depending upon the extensions you use). 
   
-     - This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava, FastAndroidNetworking, PlaceHolderView and AndroidDebugDatabase. 
-      
- - [Archi](https://github.com/ivacf/archi) 
+ ## Browsers 
   
-     - This repository showcases and compares different architectural patterns that can be used to build Android apps. The exact same sample app is built three times with different architectures. 
-      
- - [Baking-App-Kotlin](https://github.com/Ezike/Baking-App-Kotlin) 
+ - [Bromite](https://www.bromite.org/) - Based on Chromium; built-in adblocking; enhanced privacy; degoogled. 
+ - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US&gl=US) - The official release of Firefox for Android.  
+ - [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Browser based on the latest Firefox release; removed any proprietary bits of the standard Firefox for Android - NOTE: There might still be some binaries left and the app (or some builds) might get removed or re-pushed anytime. 
+ - [Firefox Focus](https://support.mozilla.org/en-US/kb/focus) - Privacy-oriented browser with tracking protection and content blocking. 
+ - [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android) - Privacy-oriented browser with tracking protection and content blocking; for the German market. 
+ - [Tor Browser](https://torproject.org) - Tor browser for Android, based on FireFox. 
+ - [Ungoogled Chromium Android](https://uc.droidware.info/) - It is the Android version of Ungoogle-Chromium. A lightweight approach to removing Google web service dependency. 
+ - [Kiwi Browser](https://kiwibrowser.com/) - Awesome FOSS Chromium browser for mobile with extension support and much more! 
   
-     - Android architecture sample with dynamic feature modularisation, clean architecture with MVI (Uni-directional data flow), dagger hilt, DFM Navigation, kotlin coroutines with StateFlow and Exo player.  
-      
- - [Clean-MVP](https://github.com/carlosmacmar/clean-MVP) 
+ ## Cameras 
   
-     - Kotlin MVP clean architecture for Android using Koin, Room and RxJava2  
-      
- - [Clean-Notes](https://github.com/mitchtabian/Clean-Notes) 
+ - [Open Camera](https://opencamera.sourceforge.io/) - Camera app with DSLR features. 
+ - [Simple Camera](https://f-droid.org/en/packages/com.simplemobiletools.camera/) - A camera with flash, zoom and no ads. 
   
-     - Android example with Clean Architecture by layer. 
+ ## Communication 
   
- - [Foodium](https://github.com/PatilShreyas/Foodium) 
+ ### E-mail  
   
-     - Foodium is a sample food blog Android application built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).  
-      
- - [RestApiMVVM](https://github.com/mitchtabian/RestApiMVVM) 
+ - [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android  
+ - [K-9 Mail](https://k9mail.app/) - K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email. 
   
-     - App that interacts with a Rest Api. Architecture is MVVM. 
-      
-      
-      
- ### :iphone: Communication 
- - [Irccloud-android](https://github.com/irccloud/android) 
+ ### Real-Time Communication 
   
-     - The official Android app for IRCCloud.com 
-      
- - [Jetchat](https://github.com/android/compose-samples/tree/master/Jetchat) 
+ - [Briar](https://code.briarproject.org/briar/briar) - Secure P2P Messaging, Anywhere. 
+ - [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client. 
+ - [Delta Chat](https://github.com/deltachat/deltachat-android) - Email-based instant messaging for Android. 
+ - [Element Android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android. 
+ - [FluffyChat](https://gitlab.com/ChristianPauly/fluffychat-flutter) - A minimalist matrix client for Android. 
+ - [Jami](https://jami.net/) - P2P messaging, encrypted, no central servers, backed by [GNU](https://www.gnu.org/) 
+ - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Instant video conferences efficiently adapting to your scale. 
+ - [Langis](https://langis.cloudfrancois.fr/) - A degoogled version of Signal Messenger app. The source of patches used to build this degoogled version is available [here](https://git.legeox.net/capslock/signal-gcm-less). 
+ - [Neko X](https://github.com/NekoX-Dev/NekoX) - Another FOSS Telegram client (based on Telegram FOSS and Nekogram which was earlier FOSS) with more features and different variants (check release page on GitHub). 
+ - [QKSMS](https://github.com/moezbhatti/qksms) - SMS Messaging app. 
+ - [Session](https://getsession.org/) - Open-source, public-key-based secure messaging application which uses a set of decentralised storage servers and an onion routing protocol to send end-to-end encrypted messages with minimal exposure of user metadata. 
+ - [Simple SMS Messenger](https://f-droid.org/en/packages/com.simplemobiletools.smsmessenger/) - An easy and quick way of managing SMS and MMS messages without ads. 
+ - [Snikket](https://snikket.org/) - Easy-to-use federated messaging+calls app based on open standards (XMPP) and open-source self-hostable server. No phone number required. 
+ - [Syphon](https://f-droid.org/en/packages/org.tether.tether/) - A privacy centric matrix client. 
+ - [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram is a messaging app with a focus on speed and security. It is simple and free. Note that this FOSS version isn't official, official version can be found on Playstore but that version uses non-free dependencies. Also, the server of Telegram is closed-source [for now](https://telegram.org/faq#q-why-not-open-source-everything). 
+ - [Threema](https://threema.ch/en/) - The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source. 
+ - [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger. 
   
-     - Jetchat is a sample chat app built with Jetpack Compose. 
-      
- - [Jetpack-Compose-WhatsApp-Clone](https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone) 
+ ### Social Media 
   
-     - An example project to demonstrate how to build WhatsApp using Jetpack Compose.  
-      
- - [K-9](https://github.com/k9mail/k-9) 
+ - [Tusky](https://tusky.app/) - Mastodon client for Android. 
+ - [Fedilab](https://fedilab.app/) - Fedilab is a multifunctional Android client to access the distributed Fediverse. It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica. 
+ - [Twidere](https://github.com/TwidereProject/Twidere-Android) - An Open Source, fully featured Twitter/Mastodon/StatusNet/Fanfou app. 
+ - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience. 
+ - [RedReader for Reddit](https://github.com/QuantumBadger/RedReader) - Unofficial Reddit client; material-design; ad-free and has tons of customisation. 
+ - [Slide](https://github.com/ccrama/Slide) - Unofficial Reddit client; material-design; ad-free and has tons of customisation. 
+ - [RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Reddit client for Android.  
+ - [Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber/) - Open-source alternative Instagram client on Android. Severly lacking now since Facebook took legal action against app, hopefully will be resolved soon. 
+ - [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook. 
+ - [Fritter](https://fritter.cc/) - A free, open-source Twitter client for Android and iOS  
   
-     - K-9 Mail is an open-source email client for Android. 
-      
- - [Kdeconnect-android](https://github.com/KDE/kdeconnect-android) 
+ ### Keyboards 
   
-     - Native Android port of the KDE Connect Qt app  
-      
- - [Proton-mail-android](https://github.com/ProtonMail/proton-mail-android) 
+ - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features. 
+ - [FlorisBoard](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in alpha/early-beta state. 
+ - [HackersKeyboard](https://github.com/klausw/hackerskeyboard) - This keyboard is especially useful if you use ConnectBot for SSH access. It provides working Tab/Ctrl/Esc keys, and arrow keys. 
+ - [OpenBoard](https://github.com/dslul/openboard) - Fork of AOSP Keyboard; minimal and simple to use. 
+ - [Simple Keyboard](https://github.com/rkkr/simple-keyboard) - This keyboard is created for those who only need a keyboard and nothing more. 
   
-     - ProtonMail Android app  
-      
- - [Qksms](https://github.com/moezbhatti/qksms) 
+ ### Other 
   
-     - QKSMS is an open source replacement to the stock messaging app on Android. It is currently available on the Google Play Store and on F-Droid 
-      
- - [Replify-Messenger](https://github.com/vidit135g/Replify-Messenger) 
+ - [KDE Connect](https://community.kde.org/KDEConnect) - A project that enables all your devices to communicate with each other. 
+ - [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE. 
   
-     - Minimal text messenger with a ton of features.  
-      
- - [Signal-Android](https://github.com/WhisperSystems/Signal-Android) 
+ ## Education 
   
-     - Signal is a messaging app for simple private communication with friends. 
-      
- - [Telegram](https://github.com/DrKLO/Telegram) 
+ - [AnkiDroid](https://github.com/ankidroid/Anki-Android) - Anki flashcards on Android. 
+ - [phyphox](https://phyphox.org/) - Sensors and data analyser. 
+ - [Wikipedia](https://www.mediawiki.org/wiki/Wikimedia_Apps#Download_the_Apps) - Official Wikipedia app for Android. 
   
-     - Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free. This repo contains the official source code for Telegram App for Android. 
-      
- - [Tindroid](https://github.com/tinode/tindroid) 
+ ## Emulation 
   
-     - Android instant messenger using Tinode backend. Beta-quality software. Debug APKs are available in releases. 
-      
- - [Tutanota](https://github.com/tutao/tutanota) 
+ - [Lemuroid](https://github.com/Swordfish90/Lemuroid) - Lemuroid is an open-source emulation project for Android based on Libretro. Its main goal is ease of use, good Android integration and a great user experience. It has an extensive list of built-in emulators.<br> 
   
-     - Tutanota is an email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.  
   
- - [Wire-android](https://github.com/wireapp/wire-android) 
+ ## Games 
   
-     - The project in this repository contains the Wire for Android client project.  
-      
-      
-      
- ### :book: eBook Reader 
- - [Bookdash-android-app](https://github.com/bookdash/bookdash-android-app) 
+ - [Andor's Trail](https://f-droid.org/en/packages/com.gpl.rpg.AndorsTrail/) - Quest-driven Roguelike fantasy dungeon crawler RPG with a powerful story. 
+ - [Apple Flinger](https://f-droid.org/en/packages/com.gitlab.ardash.appleflinger.android/) - Use a slingshot to shoot with apples. 
+ - [Mindustry](https://anuke.itch.io/mindustry) - Mindustry is a hybrid tower-defense sandbox factory game. 
+ - [Minetest](https://www.minetest.net/) - An open source voxel game engine. Basically, a FOSS alternative of Minecraft. 
+ - [Privacy Friendly 2048](https://github.com/SecUSo/privacy-friendly-2048) - An open source 2048 implementation. 
+ - [Shattered Pixel Dungeon](https://shatteredpixel.com/) - Roguelike Dungeon Crawler RPG with pixel art graphics. Every game is a unique challenge, with four different playable characters, randomized levels and enemies, and hundreds of items to collect and use. 
+ - [UnCiv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V. 
+ - [Xeonjia](https://gitlab.com/DeepDaikon/Xeonjia) - Solve ice puzzles and defeat enemies in an RPG world. 
+ - [Droidfish](https://github.com/peterosterlund2/droidfish) - DroidFish is a feature-rich graphical chess user interface, combined with the very strong Stockfish chess engine. 
+ - [Lichobile](https://lichess.org/mobile) - Lichess mobile is the lichess.org official application. 
   
-     - An Android app that lets you download free children's books in different languages from non-profit publisher Book Dash  
-   
- - [ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack](https://github.com/hoc081098/ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack) 
+ ## Media Players 
   
-     - Comic reader app. Learning MVVM / MVI with RxKotlin, Retrofit, Kotlin Coroutine, Work Manager, Room, Firebase, AndroidX, Clean Architecture. 
-   
- - [Hummingbird-for-Android](https://github.com/xiprox/Hummingbird-for-Android) 
+ - [mpv](https://mpv.io/) - Minimal media player. 
+ - [VLC](https://www.videolan.org/) - Minimal media player. 
+ - [NOVA](https://github.com/nova-video-player/aos-AVP) - Video player for local/network content with subtitle/metadata download support. 
   
-     - A cool, modern client app for the anime tracking website Hummingbird.me  
-   
- - [tachiyomi](https://github.com/inorichi/tachiyomi) 
+ ## Music 
   
-     - Free and open source manga reader for Android  
-      
-      
-   
- ### :movie_camera: Entertainment 
- - [AntennaPod](https://github.com/AntennaPod/AntennaPod) 
-      
-     - This is the official repository of AntennaPod, the easy-to-use, flexible and open-source podcast manager for Android. 
+ - [BlackHole](https://sangwan5688.github.io/BlackHole/) - Music Streaming and Downloading App. 
+ - [Metro](https://github.com/MuntashirAkon/Metro) - Fork of [Retro Music Player](#retro-music-player) with removed proprietary Google Play libraries. 
+ - [Music](https://github.com/MaxFour/Music-Player) - Lightweight and Material Music Player. 
+ - [Music Player GO](https://github.com/enricocid/Music-Player-GO) - A simple yet fully-featured local music player aiming at simplicity and performance. 
+ - [Odyssey Music Player](https://github.com/gateship-one/odyssey) - Lightweight music player. 
+ - [Retro Music Player](https://github.com/h4h13/RetroMusicPlayer) - Local music player for Android. 
+ - [Shuttle Music Player](https://github.com/timusus/Shuttle) - Local music player for Android. 
+ - [Simple Music PLayer](https://f-droid.org/en/packages/com.simplemobiletools.musicplayer/) - A clean music player with a customizable widget. 
+ - [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - It allows you to listen to radio streams. 
+ - [Vinyl Music Player](https://github.com/AdrienPoupa/VinylMusicPlayer) - Local music player for Android. 
+ - [VLC](https://www.videolan.org/) - Minimal media player. 
   
- - [Jetcaster](https://github.com/android/compose-samples/tree/master/Jetcaster) 
-      
-     - Jetcaster is a sample podcast app, built with Jetpack Compose. The goal of the sample is to showcase dynamic theming and full featured architecture. 
-      
- - [MovieGuide](https://github.com/esoxjem/MovieGuide) 
-      
-     - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture  
-      
- - [MovieHunt](https://github.com/enginebai/MovieHunt) 
-      
-     - Movie Android App written in Kotlin, MVVM, RxJava, Android Architecture Components.  
-      
- - [NewPipe](https://github.com/TeamNewPipe/NewPipe) 
-      
-     - A libre lightweight streaming front-end for Android.  
-      
- - [Phonograph](https://github.com/kabouzeid/Phonograph) 
-      
-     - A material designed music player for Android  
-      
- - [Shuttle](https://github.com/timusus/Shuttle) 
-      
-     - Shuttle is an open source, local music player for Android. 
-      
- - [SoundSpice-mobile](https://github.com/farshed/SoundSpice-mobile) 
-      
-     - A light-weight and minimalist music player for Android  
-      
- - [Timber](https://github.com/naman14/Timber) 
-      
-     - Material Design Music Player 
-      
- - [Topcorn](https://github.com/theapache64/topcorn) 
-      
-     - A minimalistic movie listing app to browse IMDB's top 250 movies, built to demonstrate MVVM with latest hot-trending Android development tools. 
-      
- - [TvFlix](https://github.com/reactivedroid/TvFlix) 
-      
-     - TvFlix android app using Dagger Hilt, Coroutines, Jetpack(Room, ViewModel, Paging, LiveData) based on MVVM architecture purely written in Kotlin. 
-      
-      
-      
- ### :moneybag: Finance     
- - [Bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) 
-      
-     - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.  
-      
- - [CoCoin](https://github.com/Nightonke/CoCoin) 
-      
-     - CoCoin, Multi-view Accounting Application  
-      
- - [Expenses](https://github.com/nominalista/expenses) 
-      
-     - App written in Kotlin for budget tracking.  
-      
- - [Finance-Manager](https://github.com/josharsh/Finance-Manager) 
-      
-     - Finance Manager is an Android Application which contains Income Tax Calculator and EMI Calculator.  
-      
- - [Gnucash-android](https://github.com/codinguser/gnucash-android) 
-      
-     - GnuCash Android is a companion expense-tracker application for GnuCash (desktop) designed for Android. It allows you to record transactions on-the-go and later import the data into GnuCash for the desktop. 
+ ## Office 
   
- - [Kripto](https://github.com/sauravrao637/Kripto) 
+ - [Collabora Office](https://www.collaboraoffice.com/release-news/collabora-office-android-beta/) - Office suite available for Android, GNU/Linux, iOS, macOS, Windows. 
   
-     - Kripto is cryptocurrency and exchanges app for Android, written in Kotlin and made using Coingecko's API. 
-      
- - [CurrencyExchange](https://github.com/Marwa-Eltayeb/CurrencyExchange) 
+ ## Password managers 
   
-     - Currency Exchange App displays real-time currency rates, shows a chart for any currency pair.  
-      
-      
- ### :soccer: Games  
- - [2048-android](https://github.com/uberspot/2048-android) 
-      
-     - This is the Android port of the 2048 game made by Gabriele Cirulli. 
-      
- - [Pixel-dungeon](https://github.com/watabou/pixel-dungeon) 
-      
-     - Traditional roguelike game with pixel-art graphics and simple interface  
-      
- - [Santa-tracker-android](https://github.com/google/santa-tracker-android) 
-      
-     - Google Santa Tracker app for Android is an educational and entertaining tradition that brings joy to millions of children (and children at heart) across the world over the December holiday period. 
-      
- - [CuboidalDrift](https://github.com/virejdasani/CuboidalDrift) 
-      
-     - Cuboidal Drift is a casual, fun android game with cool looking graphics, made by Virej Dasani. 
+ ### General  
   
- ### :weight_lifting: Health & Fitness 
- - [Android-heart-rate-monitor](https://github.com/phishman3579/android-heart-rate-monitor) 
-      
-     - Android based heart rate monitor which uses the camera and its flash to determine the users heart rate in beats per minute. 
-      
- - [Pedometer](https://github.com/j4velin/Pedometer) 
-      
-     - Lightweight pedometer app for Android using the hardware step sensor  
-      
- - [Runnerup](https://github.com/jonasoreland/runnerup) 
-      
-     - Track your sport activities with RunnerUp using the GPS in your Android phone. 
-      
-      
-   
- ### :books: Libraries 
- - [Accompanist](https://github.com/chrisbanes/accompanist) 
-      
-     - Accompanist is a group of libraries that contains some utilities which I've found myself copying around projects which use Jetpack Compose.  
-      
- - [AndroidCharts](https://github.com/HackPlan/AndroidCharts) 
-      
-     - An easy-to-use Android charts library with animation.  
-      
- - [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 
-      
-     - A library for debugging android databases and shared preferences - Make Debugging Great Again  
-      
- - [Butterknife](https://github.com/JakeWharton/butterknife) 
-      
-     - Bind Android views and callbacks to fields and methods. 
-      
- - [Dagger](https://github.com/google/dagger) 
-      
-     - A fast dependency injector for Android and Java.  
-      
- - [EventBus](https://github.com/greenrobot/EventBus) 
-      
-     - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.  
-     
- - [ExoPlayer](https://github.com/google/ExoPlayer) 
-      
-     - ExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet. ExoPlayer supports features not currently supported by Android’s MediaPlayer API, including DASH and SmoothStreaming adaptive playbacks.  
-      
- - [FilterLibrary](https://github.com/hgayan7/FilterLibrary) 
-      
-     - Android filter library -This library has 16 filters which can be applied to image bitmaps.  
-      
- - [Glide](https://github.com/bumptech/glide) 
-      
-     - An image loading and caching library for Android focused on smooth scrolling  
-      
- - [Gson](https://github.com/google/gson) 
-      
-     -  A Java serialization/deserialization library to convert Java Objects into JSON and back  
+ - [Bitwarden](https://github.com/bitwarden/mobile) - Free and open-source, cross-platform password manager available via cloud/self-hosting. NOTE: To download on F-Droid you need to add the [Bitwarden repository](https://mobileapp.bitwarden.com/fdroid/). Manual vault syncing is required with that version. 
+ - [Keepass2Android](https://github.com/PhilippC/keepass2android) - Keepass2Android is an open source password manager compatible with KeePass (v1 and v2), KeePassXC, MiniKeePass and many other KeePass ports. 
+ - [KeePassDX](https://www.keepassdx.com) - FOSS password manager compatible with .kdb and .kdbx files version 1-4 and a majority of KeePass programs. 
+ - [Master Password](https://masterpassword.app/) - A stateless password management solution. Uses a cryptographic algorithm calculates your site's password for you, only when you need it. 
+ - [Password Store](https://f-droid.org/en/packages/dev.msfjarvis.aps/) - Simple password manager that is compatible with [pass](https://www.passwordstore.org/). 
   
- - [Junit5](https://github.com/junit-team/junit5/) 
-      
-     - This repository is the home of the next generation of JUnit, JUnit 5. 
-      
- - [Logger](https://github.com/orhanobut/logger) 
-      
-     - Simple, pretty and powerful logger for android  
-      
- - [Lottie-android](https://github.com/airbnb/lottie-android) 
-      
-     - Render After Effects animations natively on Android and iOS, Web, and React Native  
-      
- - [MotionToast](https://github.com/Spikeysanju/MotionToast) 
-      
-     - A Beautiful Multipurpose Motion Toast Library in Android using Kotlin heart_eyes 
+ ### 2FA and TOTP 
   
- - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 
-      
-     - A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.  
-      
- - [Okhttp](https://github.com/square/okhttp/) 
-      
-     -  Square’s meticulous HTTP client for Java and Kotlin.  
-      
- - [Picasso](https://github.com/square/picasso) 
-      
-     - A powerful image downloading and caching library for Android 
-      
- - [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) 
-      
-     - A SeekBar suited for showing a preview of something. As seen in Google Play Movies.  
-      
- - [Retrofit](https://github.com/square/retrofit) 
-      
-     - A type-safe HTTP client for Android and the JVM  
+ - [Aegis](https://github.com/beemdevelopment/Aegis) - Free, secure and open source 2FA app for Android. 
+ - [andOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android. 
+ - [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) - Free and open source 2FA app with support for Wear OS. 
   
- - [RxJava](https://github.com/ReactiveX/RxJava) 
-      
-     - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.  
-   
- - [Toasty](https://github.com/GrenderG/Toasty) 
-      
-     - The usual Toast, but with steroids 
-      
- - [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout) 
-      
-     - An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin. 
-      
- - [Zxing](https://github.com/zxing/zxing) 
-      
-     - ZXing ("Zebra Crossing") barcode scanning library for Java, Android  
-      
- - [ReactButton](https://github.com/amrdeveloper/reactbutton) 
-      
-     - Android Library to make it easy to add ReactButton feature in your app with Multi Reactions. 
-      
- - [LottieDIalog](https://github.com/amrdeveloper/LottieDIalog) 
-      
-     - Android Library to create Lottie animation view dialog easily with a lot of customization. 
+ ## Personalisation 
   
-      
+ - [Animated Theme Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation 
+ - [App Launcher](https://f-droid.org/en/packages/com.simplemobiletools.applauncher/) - A simple holder for your favourite app launchers. 
+ - [KISS Launcher](https://f-droid.org/en/packages/fr.neamar.kiss/) - Blazingly fast launcher focused on search. 
+ - [Lawnchair 2](https://lawnchair.app/) - Continuation of Lawnchair 1; Pixel features; fork of [Launcher3](https://github.com/amirzaidi/Launcher3). 
+ - [Lawndesk](https://github.com/renzhn/Lawndesk) - Fork of Lawnchair V2; app-drawer-free launcher. 
+ - [Librechair](https://gitlab.com/oldosfan/librechair) - Degoogled; fork of Lawnchair V2 & [Launcher3](https://github.com/amirzaidi/Launcher3). 
+ - [LawnChair 12](https://github.com/LawnchairLauncher/lawnchair/releases) - Contininuation of LawnChair V2 with support for QuickSwitch and more. Includes a nice simple design that mimics the design of Google's Pixel launcher. Also includes in app Monet'like theming with themed icons(optional with a separate package called LawnIcons) and wallpaper based theming. 
+ - [Omega](https://github.com/otakuhqz/Omega) - Open-Source alternative to Nova Launcher 
+ - [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) - Launcher that aims to be a powerful and community driven project. 
+ - [Sentien Launcher](https://f-droid.org/en/packages/com.sentienhq.launcher/) - A quick, smart, minimalist Launcher, designed with your digital well-being in mind.  
+ - [Taskbar](https://github.com/farmerbb/Taskbar) - A PC-style Launcher for Android. 
+ - [Arcticons](https://github.com/Donnnno/Arcticons) - A monotone line-based icon pack for android  
   
- ### :art: Misc     
- - [Android-conferences](https://github.com/jitinsharma/android-conferences) 
-      
-     - An app which displays conferences from http://androidstudygroup.github.io/conferences/ 
-      
- - [AndroidTensorFlowMachineLearning](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
+  
+ ## Photos 
+  
+ - [DNG Processor](https://github.com/amirzaidi/DNGProcessor) - Bring out the best in your phone's camera. It waits for new RAW images captured using a supported camera app, and then processes them in the background. Works well with Open Camera and usually gives better results than Google Camera ports. 
+ - [Ente](https://github.com/LinuxCafeFederation/awesome-android/issues/63) - Ente is a simple to use, beautifully designed application that provides end-to-end encrypted backups for photos and videos on Android, iOS and web. 
+ - [Phimp.me](https://github.com/fossasia/phimpme-android) - Photo Imaging and Picture Editor. 
+ - [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/) - A premium app for managing and editing your photos, videos, GIFs without ads. 
+ - [Stingle Photos](https://github.com/stingle/stingle-photos-android) - Stingle Photos is a secure, open-source photo, video cloud storage and backup application that is safe, ad-free and easy to use. It provides strong encryption and privacy to keep you safe from data breaches and leaks. 
+ - [Photok](https://github.com/leonlatsch/Photok) - Encrypted Photo Safe for Android. 
+  
+ ## Productivity 
+  
+ - [Bodhi Timer](https://github.com/yuttadhammo/BodhiTimer) - It is an elegant, minimalist countdown timer. 
+ - [Catima](https://github.com/TheLastProject/Catima) - A loyalty card / gift card / ticket app. 
+ - [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) - A diary application optimized for user experience. 
+ - [Fokus](https://github.com/asayah-san/fokus-android) - Reminder app for tasks and events tailored specifically for students. 
+ - [Goodtime](https://github.com/adrcotfas/Goodtime) - A minimalist but powerful productivity timer designed to keep you focused and free of distractions. 
+ - [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits/) - Track your habits and long-term goals. 
+ - [neutriNote](https://github.com/appml/neutrinote) - neutriNote - Markdown + Math in Just 3 MB!  
+ - [Noteless](https://github.com/redsolver/noteless) - A markdown note-taking app for mobile devices. 
+ - [Notally](https://github.com/OmGodse/Notally) - A minimalist notes app with a material design. 
+ - [OpenTracks](https://opentracksapp.com/) - OpenTracks is a sport tracking application that completely respects your privacy.  
+ - [Privacy Friendly Pausing Healthily](https://github.com/SecUSo/privacy-friendly-2048) - An open source work break timer with simple exercises to perform 
+ - [Privacy Friendly QR Scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner) - A QR / bar code scanner 
+ - [Simple Notes](https://www.simplemobiletools.com/notes/) - Create plain text notes or checklists quickly. 
+ - [Tasks](https://tasks.org/) - A To-Do list app based on Astrid To-Do list app. 
+ - [DioHub](https://github.com/NamanShergill/diohub) - Interact with GitHub from mobile. 
+  
+ ## Streaming 
+  
+ - [LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android. 
+ - [NewPipe](https://newpipe.schabi.org/) - Lightweight Google-free YouTube client. 
+ - [SkyTube](https://skytube-app.com/) - An open-source YouTube™ app for Android™. 
+ - [Twire](https://github.com/twireapp/Twire) - An Open Source, AD-Free Twitch browser and stream player for Android. Supports VODs with chat replay, custom emotes (BTTV and FFZ) and Picture in Picture mode. A fork of Pocket Plays for Twitch. 
+  
+ ## VPN 
+  
+ - [Mullvad](https://mullvad.net/en/) - Mullvad was founded in 2009 purely with the ambition of upholding the universal right to privacy – for you, for us, for everyone. And not only that, we want to make Internet censorship and mass surveillance ineffective. 
+ - [OpenVPN for Android](https://f-droid.org/en/packages/de.blinkt.openvpn/) - OpenVPN without root. 
+ - [WireGuard](https://git.zx2c4.com/wireguard-android/about/) -  an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. 
+ - [ProtonVPN](https://protonvpn.com/) - Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)! :) ([Source Code](https://github.com/ProtonVPN/android-app)). 
+ - [RiseupVPN](https://riseup.net/en/vpn) - Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**). 
+  
+ ## Other Utilities 
+  
+ ### Navigation 
+  
+ - [OsmAnd](https://osmand.net/) - An open-source map and navigation app for Android (and iOS) that uses OpenStreetMap map and Wikipedia databases. 
+ - [StreetComplete](https://f-droid.org/en/packages/de.westnordost.streetcomplete/) - OpenStreetMap surveyor app. This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site. 
+  
+ ### Money Management 
+  
+ - [Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets 
+ - [Firefly III Mobile](https://github.com/emansih/FireflyMobile) - Mobile Application for Firefly III written in Kotlin 
+  
+ ### Git based clients 
+  
+ - [GitNex](https://gitnex.com/) - Gitea client for Android. 
+ - [GitTouch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云). 
+ - [LabCoat](https://gitlab.com/Commit451/LabCoat) - GitLab client for Android. 
+ - [OctoDroid](https://github.com/slapperwan/gh4a) - GitHub client for Android. 
+ - [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open-source GitHub Android client app, faster and concise. 
+  
+ ### Other 
+  
+ - [Acode](https://acode.foxdebug.com/) - A powerful code editor for Android. 
+ - [Codec Info](https://github.com/Parseus/codecinfo) - Detailed listing of multimedia codecs on your Android device - with no ads! 
+ - [CPU Info](https://github.com/kamgurgul/cpu-info) - Provides information about device hardware and software. 
+ - [EtchDroid](https://f-droid.org/en/packages/eu.depau.etchdroid/) - Helps you with writing ISO images and creating bootable USB drives, no root required. 
+ - [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) - Tracker finder for a particular Android application. 
+ - [Termux](https://github.com/termux/termux-app) - Termux is an Android terminal emulator and Linux environment app. 
+ - [Trail Sense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/) - Use your phone's sensors to assist with wilderness treks or survival situations. 
+  
+ ## Tools 
+  
+ - [AFWall+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/) - Control network traffic (Requires root). 
+ - [Calculator++](https://www.f-droid.org/en/packages/org.solovyev.android.calculator/) - Scientific calculator with sleek interface and powerful capabilities. 
+ - [Converter NOW](https://github.com/ferraridamiano/ConverterNOW) - A simple, immediate and fast unit & currency converter. 
+ - [Download Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - A Free and Open Source software download manager. 
+ - [Material Files](https://github.com/zhanghai/MaterialFiles) - Material Design file manager (Root permission is optional). 
+ - [MoeList](https://github.com/axiel7/MoeList) - Unofficial MAL (MyAnimeList) client. With this app you can easily track, rate, organize and discover new Anime & Manga. 
+ - [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - Network monitor and traffic dump tool (Root permission is optional). 
+ - [ScreenCam](https://gitlab.com/vijai/screenrecorder) - Lightweight and functional screen recorder. 
+ - [Simple File Manager](https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/) - A simple file manager for browsing and editing files and directories. 
+ - [TrackerControl](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) - TrackerControl allows to monitor and control hidden data collection in apps. 
+  
+ ## Modding 
+  
+ > **NOTE: This category is for those that want to modify their Android system. Be warned that some of the rooted apps may result in a bootloop.** 
+  
+ - [/d/gapps](https://f-droid.org/en/packages/org.droidtr.deletegapps/) - Delete/disable GApps (root permission is optional but recommended). 
+ - [App Manager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android (Root permission is optional). 
+ - [Island](https://island.oasisfeng.com/) - By the creator of [Greenify](https://forum.xda-developers.com/apps/greenify); uses the "Work Profile" feature of Android to create a sandbox environment to clone apps and isolate them ([Source Code](https://github.com/oasisfeng/island)) (Root permission is optional). 
+ - [Insular](https://gitlab.com/secure-system/Insular) - Fork of [Island](#island) with removed proprietary Google Play libraries. 
+ - [Linux Deploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android (Requires root). 
+ - [Magisk Manager](https://github.com/topjohnwu/Magisk) - Front-end to [Magisk](https://magisk.me/) (Require root). 
+ - [microG](https://microg.org/) - FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install ([Source Code](https://github.com/microg)). 
+ - [Nethunter-App](http://store.nethunter.com/en/packages/com.offsec.nethunter/) - This is the next-gen Nethunter app, which acts as an installer, updater, 
+   and interface for the Kali Linux chroot. Please note that it requires [Nethunter Terminal](http://store.nethunter.com/en/packages/com.offsec.nhterm/) to work. 
+ - [Shelter](https://github.com/PeterCxy/Shelter) - Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into (It has a few compatibility issues with Android 10+ for now but you can still use it if you like). 
+ - [Smartpack-Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager/) - Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features (Require root). 
+ - [VirtualXposed](https://f-droid.org/en/packages/io.va.exposed/) - Use Xposed without root, unlock the bootloader or modify system image (Supports Android 5.0~9.0). 
+  
+ ## Contributing 
+  
+ Want to contribute? Feel free to fork the project and send merge requests when you are done. Be sure to follow [these rules](Contributing.md). 
+  
+ I will check it out and will decide if I should accept it or not. If you do not want to fork the project, consider [opening an issue](https://github.com/TheEvilSkeleton/free-and-open-source-android-apps/issues) and suggest what application you want me to install. 
+  
+ ## Links to Linux Café 
+  
+ - [Linux Café Website](https://linuxcafefederation.github.io/LinuxCafe/) 
+ - [Linux Café Discord](https://discord.gg/YY4zrNR) 
+ - [Linux Café Matrix](https://matrix.to/#/#linuxcafe:linuxcafe.chat) 
+ - [Linux Café Telegram](https://t.me/joinchat/Mn4RpxM6KrSLQMBL78yloQ) 
+ - [Linux Café Reddit](https://reddit.com/r/linuxcafe) 
+  
+ ## Footnotes 
+  
+ ### Deprecated contents 
+  
+ To see content that is deprecated, lacking documentation or proprietary but still useful go to [DeprecatedContents](DeprecatedContents.md) 
+  
+ ### Other Git repositories 
+  
+ [Ashpex / Android FOSS Apps](https://gitlab.com/Ashpex/android-FOSS-apps) 
+  
+ [Mybridge / amazing-android-apps](https://github.com/Mybridge/amazing-android-apps) 
+  
+ [pcqpcq / open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) 
+  
+ [unicodedeveloper / awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps#android) 
+  
+ [samedamci / FOSS_Stuff](https://github.com/samedamci/FOSS_Stuff) 
+  
+ ### External sources 
+  
+ [Android Authority](https://www.androidauthority.com/best-open-source-apps-for-android-861665/) 
+  
+ [Beebom](https://beebom.com/open-source-apps-android/) 
+  
+ [FossBytes](https://fossbytes.com/best-free-open-source-apps-android/) 
+  
+ [TechWiser](https://techwiser.com/open-source-android-apps/) 
+  
+ ### Mirrors 
+  
+ - Codeberg: https://codeberg.org/LinuxCafeFederation/awesome-android 
+ - GitLab: https://gitlab.com/linuxcafefederation/awesome-android 
+ - GitHub: https://github.com/LinuxCafeFederation/awesome-android
