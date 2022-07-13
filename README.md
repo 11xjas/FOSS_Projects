@@ -4,11 +4,11 @@
   
  [<img src="logo.png">](https://github.com/LinuxCafeFederation/awesome-android) 
   
- ## Support the maintainer of this list 
+  Support the maintainer of this list 
  - CashApp: $CipherOps 
  - Amazon Wishlist: https://amazon.com/hz/wishlist/ls/1GD5YOV16E0G0 
   
- ## Contents 
+  Contents 
   
  - [Advertisement blocking](#advertisement-blocking) 
  - [App stores](#app-stores) 
@@ -43,7 +43,7 @@
  - [Tools](#tools) 
  - [Modding](#modding) 
   
- ## Advertisement blocking 
+ Advertisement blocking 
   
  - [AdAway](https://adaway.org/) - Ad blocker for Android using the hosts file (Root permission is optional but it is recommended). 
  - [Blokada](https://blokada.org/) - Ad blocker for Android using the VPN API. 
@@ -52,14 +52,14 @@
  - [NetGuard](https://github.com/M66B/NetGuard) - NetGuard provides simple and advanced ways to block access to the internet - no root required. 
  - [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.  
   
- ## App stores 
+  App stores 
   
  - [F-Droid](https://www.f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. 
  - [Aurora Droid](https://gitlab.com/AuroraOSS/auroradroid) - Fork of the F-Droid client with external repos ready to sync (Root permission is optional). 
  - [Aurora Store](https://auroraoss.com/) - Unofficial FOSS client to Google Play Store (Root permission is optional). 
  - [Foxy Droid](https://github.com/kitsunyan/foxy-droid) - Yet another F-Droid client. 
   
- ## Basic Utilities 
+  Basic Utilities 
   
  - [Binary Eye](https://github.com/markusfisch/BinaryEye) - Barcode and QR code scanner without ads 
  - [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/) - It is a material designed open source calendar. 
@@ -74,12 +74,12 @@
  - [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app. 
  - [Video-Transcoder](https://github.com/brarcher/video-transcoder) - Android app for video and audio transcoder, based on FFmpeg  
   
- ## Torrenting 
+  Torrenting 
  - [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) - Copylefted libre full-featured torrent client for Android. 
  - [Frostwire](https://github.com/frostwire/frostwire/tree/master/android) - A file sharing client, media player and simple file manager for your Android devices. 
   
   
- ## Book readers 
+  Book readers 
   
  - [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD) - Based on [FBReader](https://fbreader.org/); book reader with a simple UI. 
  - [Coolreader](https://github.com/buggins/coolreader) - cross platform open source e-book reader. 
@@ -91,7 +91,7 @@
  - [Shosetsu](https://github.com/ShosetsuOrg/android-app) - Light novel reader. 
  - [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader (features 18+ content depending upon the extensions you use). 
   
- ## Browsers 
+  Browsers 
   
  - [Bromite](https://www.bromite.org/) - Based on Chromium; built-in adblocking; enhanced privacy; degoogled. 
  - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US&gl=US) - The official release of Firefox for Android.  
@@ -102,19 +102,19 @@
  - [Ungoogled Chromium Android](https://uc.droidware.info/) - It is the Android version of Ungoogle-Chromium. A lightweight approach to removing Google web service dependency. 
  - [Kiwi Browser](https://kiwibrowser.com/) - Awesome FOSS Chromium browser for mobile with extension support and much more! 
   
- ## Cameras 
+  Cameras 
   
  - [Open Camera](https://opencamera.sourceforge.io/) - Camera app with DSLR features. 
  - [Simple Camera](https://f-droid.org/en/packages/com.simplemobiletools.camera/) - A camera with flash, zoom and no ads. 
   
- ## Communication 
+  Communication 
   
- ### E-mail  
+  E-mail  
   
  - [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android  
  - [K-9 Mail](https://k9mail.app/) - K-9 Mail is an open source email client focused on making it easy to chew through large volumes of email. 
   
- ### Real-Time Communication 
+  Real-Time Communication 
   
  - [Briar](https://code.briarproject.org/briar/briar) - Secure P2P Messaging, Anywhere. 
  - [Conversations](https://github.com/siacs/Conversations) - XMPP/Jabber client. 
@@ -134,7 +134,7 @@
  - [Threema](https://threema.ch/en/) - The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source. 
  - [Yaxim](https://yaxim.org/) - Yet another XMPP instant messenger. 
   
- ### Social Media 
+  Social Media 
   
  - [Tusky](https://tusky.app/) - Mastodon client for Android. 
  - [Fedilab](https://fedilab.app/) - Fedilab is a multifunctional Android client to access the distributed Fediverse. It supports Mastodon, Pleroma, Pixelfed, Peertube, GNU Social, Friendica. 
@@ -147,7 +147,7 @@
  - [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/) - Third-party app for Facebook. 
  - [Fritter](https://fritter.cc/) - A free, open-source Twitter client for Android and iOS  
   
- ### Keyboards 
+  Keyboards 
   
  - [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with tons of features. 
  - [FlorisBoard](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in alpha/early-beta state. 
@@ -155,7 +155,7 @@
  - [OpenBoard](https://github.com/dslul/openboard) - Fork of AOSP Keyboard; minimal and simple to use. 
  - [Simple Keyboard](https://github.com/rkkr/simple-keyboard) - This keyboard is created for those who only need a keyboard and nothing more. 
   
- ### Other 
+  Other 
   
  - [KDE Connect](https://community.kde.org/KDEConnect) - A project that enables all your devices to communicate with each other. 
  - [RTranslator](https://github.com/niedev/RTranslator) - Universal translator based on Google's APIs and Bluetooth LE. 
